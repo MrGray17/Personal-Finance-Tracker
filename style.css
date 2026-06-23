@@ -1,0 +1,13 @@
+body {
+    background-color: #3ecb9c; /* A soft, light gray background */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* A clean sans-serif font */
+    color: #333333; /* Dark charcoal text for readability */
+    padding: 20px;
+}
+
+#logo-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    color: rgb(34, 47, 99);
+}
